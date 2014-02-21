@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-$ npm install -g issues
+$ npm install -g ai
 ```
 
 Add this to your .bash_rc:
