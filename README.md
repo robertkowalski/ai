@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/robertkowalski/ai.png?branch=master)](https://travis-ci.org/robertkowalski/ai)
+
 # ai -- abandoned-issues
 
 ## Usage
