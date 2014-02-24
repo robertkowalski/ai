@@ -10,4 +10,6 @@ coverage.html
 .idea
 lib-cov
 
-node_modules
+/node_modules/hock
+/node_modules/tap
+/node_modules/.bin
