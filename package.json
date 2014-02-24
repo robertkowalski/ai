@@ -1,6 +1,6 @@
 {
   "name": "ai",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "I'm helping you finding abandoned issues in your project",
   "main": "index.js",
   "bin": "./bin/ai.js",
