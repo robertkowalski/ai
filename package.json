@@ -12,6 +12,9 @@
     "hock": "~0.2.4",
     "tap": "~0.4.8"
   },
+  "bundleDependencies": [
+    "request"
+  ],
   "scripts": {
     "test": "tap test/*.js"
   },
