@@ -2,7 +2,6 @@ var request = require("request")
 
 var GITHUB_USERNAME = process.env.AI_GITHUB_USERNAME
   , OLDISSUE = new Date() - (1000 * 60 * 60 * 24 * 15)
-  , now = new Date()
 
 function getIssues (url, user, repo, cb) {
   var aiUrl = url || "https://api.github.com/search/issues" +
