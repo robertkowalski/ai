@@ -6,7 +6,7 @@
   "bin": "./bin/ai.js",
   "preferGlobal": true,
   "dependencies": {
-    "request": "~2.34.0"
+    "request": "~2.40.0"
   },
   "devDependencies": {
     "hock": "~0.2.4",
