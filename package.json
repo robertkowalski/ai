@@ -6,11 +6,11 @@
   "bin": "./bin/ai.js",
   "preferGlobal": true,
   "dependencies": {
-    "request": "~2.40.0"
+    "request": "2.40.0"
   },
   "devDependencies": {
-    "hock": "~0.2.4",
-    "tap": "~0.4.8"
+    "hock": "0.2.5",
+    "tap": "0.4.13"
   },
   "bundleDependencies": [
     "request"
